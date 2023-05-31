@@ -1,25 +1,25 @@
 {
   "development": {
     "username": "root",
-    "password": "",
+    "password": "tes",
     "database": "projektcc",
-    "host": "34.67.31.13",
+    "host": "34.128.82.4",
     "port" : 3306,
     "dialect": "mysql"
   },
   "test": {
     "username": "root",
-    "password": "",
+    "password": "tes",
     "database": "projektcc",
-    "host": "34.67.31.13",
+    "host": "34.128.82.4",
     "port" : 3306,
     "dialect": "mysql"
   },
   "production": {
     "username": "root",
-    "password": "",
+    "password": "tes",
     "database": "projektcc",
-    "host": "34.67.31.13",
+    "host": "34.128.82.4",
     "port" : 3306,
     "dialect": "mysql"
   }
