@@ -3,7 +3,7 @@
     "username": "root",
     "password": "tes",
     "database": "projektcc",
-    "host": "34.128.82.4",
+    "host": "34.71.101.11",
     "port" : 3306,
     "dialect": "mysql"
   },
@@ -11,7 +11,7 @@
     "username": "root",
     "password": "tes",
     "database": "projektcc",
-    "host": "34.128.82.4",
+    "host": "34.71.101.11",
     "port" : 3306,
     "dialect": "mysql"
   },
@@ -19,7 +19,7 @@
     "username": "root",
     "password": "tes",
     "database": "projektcc",
-    "host": "34.128.82.4",
+    "host": "34.71.101.11",
     "port" : 3306,
     "dialect": "mysql"
   }
