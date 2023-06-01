@@ -7,9 +7,11 @@ const pegawaiRouter = require("./app/pegawai/route");
 const userRouterA = require("./app/authentication/route");
 const Handler404NotFound = require("./middleware/Handler404NotFound");
 const CustomErrorHandler = require("./middleware/CustomErrorHandler");
+var cors = require('cors');
 
 const app = express();
 
+app.use(cors());
 app.use(logger("dev"));
 app.use(express.json());
 app.use(express.urlencoded({ extended: false }));
